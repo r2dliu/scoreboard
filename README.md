@@ -3,4 +3,4 @@ MyScoreboard is a small app that takes in user input and allows for speedy manip
 
 Perfect for live streaming with OBS or XSplit.
 
-Requires python as well as the module PyQT4, which can be downloaded here: https://www.riverbankcomputing.com/software/pyqt/download
+Requires python as well as the PyQT4 package, which can be downloaded here for Windows, Mac, and Linux: https://www.riverbankcomputing.com/software/pyqt/download
